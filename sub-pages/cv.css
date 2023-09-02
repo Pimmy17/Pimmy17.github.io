@@ -227,6 +227,7 @@ h5 {
   bottom: 8px;
   width: 100%;
   text-align: center;
+  backgroundColor: #000000;
 }
 
 .numbertext {
